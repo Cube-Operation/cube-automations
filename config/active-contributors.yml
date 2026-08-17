@@ -1,0 +1,27 @@
+# 「活跃贡献者」区块配置
+#
+# threshold — 贡献数 >= 该值的贡献者自动进入「活跃贡献者」（默认 10）
+threshold: 10
+
+# force — 强制列入「活跃贡献者」的 GitHub 用户名，即使贡献数低于阈值。
+# 若某人不在仓库贡献者列表中，会按 1 个贡献计入排序，并拉取其 GitHub 资料。
+# 被列入活跃贡献者的人不会再出现在 All Contributors 里。
+#
+# 示例:
+# force:
+#   - octocat
+force:
+  - kinwin-ustc
+  - QingqLin
+  - zhuangel
+  - changpe1
+  - charliecgxu
+  - caoqianyun
+  - ls-ggg
+  - up2wing
+  - zhouxianping
+  - fslongjin
+  - hlz260
+  - tinklone
+  - chenhengqi
+  - qiuyukunn
