@@ -87,6 +87,7 @@ CONTRIBUTORS_JSON_PATH=/path/to/cube-automations/data/contributors.json npm run 
 [`.github/workflows/update-contributors.yml`](.github/workflows/update-contributors.yml)：
 
 - 每天 06:00（Asia/Shanghai，cron `0 22 * * *` UTC）定时跑
+- `config/active-contributors.yml` 有 push 时立即触发（路径过滤，回写 JSON 的 commit 不会命中，不会循环）
 - `workflow_dispatch` 可在 Actions 页面手动触发
 - 用内置 `GITHUB_TOKEN` 调 GitHub API（公开仓库只读，额度足够）并回写 commit
 - 无变化则跳过 commit；Actions 的 `GITHUB_TOKEN` 推送默认不会再触发其他 workflow，不会循环构建

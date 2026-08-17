@@ -1,6 +1,11 @@
 name: update-contributors
 
 on:
+  push:
+    branches: [master]
+    paths:
+      # 配置一更新就重新生成 contributors.json
+      - 'config/active-contributors.yml'
   schedule:
     # 每天 06:00（Asia/Shanghai）= 22:00 UTC
     - cron: '0 22 * * *'
