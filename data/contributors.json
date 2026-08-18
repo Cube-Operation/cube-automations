@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-17T22:22:52Z",
+  "generatedAt": "2026-08-18T22:21:17Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 80,
-    "commits": 705,
-    "stars": 11177
+    "contributors": 81,
+    "commits": 714,
+    "stars": 11226
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 230
+      "contributions": 234
     },
     {
       "login": "chenhengqi",
@@ -30,7 +30,7 @@
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 42
+      "contributions": 43
     },
     {
       "login": "lisongqian",
@@ -51,15 +51,15 @@
       "contributions": 19
     },
     {
-      "login": "FakeLearne",
-      "htmlUrl": "https://github.com/FakeLearne",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73240221?v=4",
-      "contributions": 17
-    },
-    {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
+      "contributions": 18
+    },
+    {
+      "login": "FakeLearne",
+      "htmlUrl": "https://github.com/FakeLearne",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73240221?v=4",
       "contributions": 17
     },
     {
@@ -161,16 +161,16 @@
       "contributions": 9
     },
     {
+      "login": "chaojixinren",
+      "htmlUrl": "https://github.com/chaojixinren",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/218372427?v=4",
+      "contributions": 7
+    },
+    {
       "login": "sparkzky",
       "htmlUrl": "https://github.com/sparkzky",
       "avatarUrl": "https://avatars.githubusercontent.com/u/146502758?v=4",
       "contributions": 7
-    },
-    {
-      "login": "chaojixinren",
-      "htmlUrl": "https://github.com/chaojixinren",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/218372427?v=4",
-      "contributions": 6
     },
     {
       "login": "chenggui53",
@@ -374,6 +374,12 @@
       "login": "emailcannotbeblank",
       "htmlUrl": "https://github.com/emailcannotbeblank",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50786445?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "ENCHIGO",
+      "htmlUrl": "https://github.com/ENCHIGO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
       "contributions": 1
     },
     {
