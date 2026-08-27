@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-25T22:24:57Z",
+  "generatedAt": "2026-08-27T02:55:49Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 88,
-    "commits": 759,
-    "stars": 11334
+    "commits": 772,
+    "stars": 11354
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 243
+      "contributions": 246
     },
     {
       "login": "chenhengqi",
@@ -24,7 +24,7 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 48
+      "contributions": 50
     },
     {
       "login": "zyl1121",
@@ -45,16 +45,16 @@
       "contributions": 26
     },
     {
+      "login": "FakeLearne",
+      "htmlUrl": "https://github.com/FakeLearne",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/73240221?v=4",
+      "contributions": 25
+    },
+    {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
       "contributions": 22
-    },
-    {
-      "login": "FakeLearne",
-      "htmlUrl": "https://github.com/FakeLearne",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/73240221?v=4",
-      "contributions": 19
     },
     {
       "login": "kinwin-ustc",
@@ -126,7 +126,7 @@
       "login": "changpe1",
       "htmlUrl": "https://github.com/changpe1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14796941?v=4",
-      "contributions": 2
+      "contributions": 3
     },
     {
       "login": "qiuyukunn",
@@ -173,15 +173,15 @@
       "contributions": 8
     },
     {
-      "login": "chenggui53",
-      "htmlUrl": "https://github.com/chenggui53",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5997374?v=4",
-      "contributions": 6
-    },
-    {
       "login": "wbzdssm",
       "htmlUrl": "https://github.com/wbzdssm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
+      "contributions": 7
+    },
+    {
+      "login": "chenggui53",
+      "htmlUrl": "https://github.com/chenggui53",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5997374?v=4",
       "contributions": 6
     },
     {
