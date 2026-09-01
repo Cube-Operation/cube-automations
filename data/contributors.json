@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-31T00:12:27Z",
+  "generatedAt": "2026-09-01T00:59:32Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 89,
-    "commits": 800,
-    "stars": 11391
+    "commits": 804,
+    "stars": 11541
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 258
+      "contributions": 262
     },
     {
       "login": "chenhengqi",
