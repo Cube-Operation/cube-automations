@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-01T23:48:06Z",
+  "generatedAt": "2026-09-02T23:51:57Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 90,
-    "commits": 819,
-    "stars": 11591
+    "contributors": 92,
+    "commits": 828,
+    "stars": 11653
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 267
+      "contributions": 271
     },
     {
       "login": "chenhengqi",
@@ -24,13 +24,13 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 53
+      "contributions": 54
     },
     {
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 47
+      "contributions": 48
     },
     {
       "login": "lisongqian",
@@ -66,7 +66,7 @@
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 18
+      "contributions": 19
     },
     {
       "login": "xiaojunxiang2023",
@@ -395,6 +395,12 @@
       "contributions": 1
     },
     {
+      "login": "Gu0YuXianG",
+      "htmlUrl": "https://github.com/Gu0YuXianG",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/42953016?v=4",
+      "contributions": 1
+    },
+    {
       "login": "husttsq",
       "htmlUrl": "https://github.com/husttsq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3353002?v=4",
@@ -518,6 +524,12 @@
       "login": "Xinlong-Chen",
       "htmlUrl": "https://github.com/Xinlong-Chen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/49522466?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "Young-Allen",
+      "htmlUrl": "https://github.com/Young-Allen",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/87413789?v=4",
       "contributions": 1
     },
     {
