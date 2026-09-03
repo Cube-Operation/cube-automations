@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-02T23:51:57Z",
+  "generatedAt": "2026-09-03T23:47:13Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 92,
-    "commits": 828,
-    "stars": 11653
+    "commits": 833,
+    "stars": 11743
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 271
+      "contributions": 273
     },
     {
       "login": "chenhengqi",
@@ -24,7 +24,7 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 54
+      "contributions": 55
     },
     {
       "login": "zyl1121",
@@ -215,6 +215,12 @@
       "contributions": 3
     },
     {
+      "login": "MeiSiristhebest",
+      "htmlUrl": "https://github.com/MeiSiristhebest",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124799179?v=4",
+      "contributions": 3
+    },
+    {
       "login": "yingjun8",
       "htmlUrl": "https://github.com/yingjun8",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87511604?v=4",
@@ -224,6 +230,12 @@
       "login": "aichitudou123",
       "htmlUrl": "https://github.com/aichitudou123",
       "avatarUrl": "https://avatars.githubusercontent.com/u/145652255?v=4",
+      "contributions": 2
+    },
+    {
+      "login": "aptacc2421",
+      "htmlUrl": "https://github.com/aptacc2421",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/194675508?v=4",
       "contributions": 2
     },
     {
@@ -248,12 +260,6 @@
       "login": "fatelei",
       "htmlUrl": "https://github.com/fatelei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/961094?v=4",
-      "contributions": 2
-    },
-    {
-      "login": "MeiSiristhebest",
-      "htmlUrl": "https://github.com/MeiSiristhebest",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124799179?v=4",
       "contributions": 2
     },
     {
@@ -308,12 +314,6 @@
       "login": "annismckenzie",
       "htmlUrl": "https://github.com/annismckenzie",
       "avatarUrl": "https://avatars.githubusercontent.com/u/16936?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "aptacc2421",
-      "htmlUrl": "https://github.com/aptacc2421",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/194675508?v=4",
       "contributions": 1
     },
     {
