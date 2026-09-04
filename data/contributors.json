@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-03T23:47:13Z",
+  "generatedAt": "2026-09-04T23:43:36Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 92,
-    "commits": 833,
-    "stars": 11743
+    "contributors": 93,
+    "commits": 843,
+    "stars": 11779
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 273
+      "contributions": 274
     },
     {
       "login": "chenhengqi",
@@ -24,7 +24,7 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 55
+      "contributions": 56
     },
     {
       "login": "zyl1121",
@@ -36,6 +36,12 @@
       "login": "lisongqian",
       "htmlUrl": "https://github.com/lisongqian",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25759760?v=4",
+      "contributions": 31
+    },
+    {
+      "login": "luzhixing12345",
+      "htmlUrl": "https://github.com/luzhixing12345",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
       "contributions": 30
     },
     {
@@ -43,12 +49,6 @@
       "htmlUrl": "https://github.com/FakeLearne",
       "avatarUrl": "https://avatars.githubusercontent.com/u/73240221?v=4",
       "contributions": 29
-    },
-    {
-      "login": "luzhixing12345",
-      "htmlUrl": "https://github.com/luzhixing12345",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 28
     },
     {
       "login": "lkml-likexu",
@@ -60,7 +60,7 @@
       "login": "kinwin-ustc",
       "htmlUrl": "https://github.com/kinwin-ustc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 19
+      "contributions": 20
     },
     {
       "login": "liciazhu",
@@ -72,7 +72,7 @@
       "login": "xiaojunxiang2023",
       "htmlUrl": "https://github.com/xiaojunxiang2023",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65019264?v=4",
-      "contributions": 18
+      "contributions": 19
     },
     {
       "login": "JunHe77",
@@ -81,16 +81,16 @@
       "contributions": 16
     },
     {
+      "login": "caoqianyun",
+      "htmlUrl": "https://github.com/caoqianyun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
+      "contributions": 15
+    },
+    {
       "login": "QingqLin",
       "htmlUrl": "https://github.com/QingqLin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42768485?v=4",
       "contributions": 15
-    },
-    {
-      "login": "caoqianyun",
-      "htmlUrl": "https://github.com/caoqianyun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
-      "contributions": 14
     },
     {
       "login": "tinklone",
@@ -251,6 +251,12 @@
       "contributions": 2
     },
     {
+      "login": "dwin-gharibi",
+      "htmlUrl": "https://github.com/dwin-gharibi",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/20875684?v=4",
+      "contributions": 2
+    },
+    {
       "login": "ENCHIGO",
       "htmlUrl": "https://github.com/ENCHIGO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
@@ -383,12 +389,6 @@
       "contributions": 1
     },
     {
-      "login": "dwin-gharibi",
-      "htmlUrl": "https://github.com/dwin-gharibi",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/20875684?v=4",
-      "contributions": 1
-    },
-    {
       "login": "emailcannotbeblank",
       "htmlUrl": "https://github.com/emailcannotbeblank",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50786445?v=4",
@@ -476,6 +476,12 @@
       "login": "SSebo",
       "htmlUrl": "https://github.com/SSebo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5784607?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "talkCat",
+      "htmlUrl": "https://github.com/talkCat",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48175941?v=4",
       "contributions": 1
     },
     {
