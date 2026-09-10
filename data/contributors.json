@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-09T23:50:04Z",
+  "generatedAt": "2026-09-10T23:43:35Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 93,
-    "commits": 862,
-    "stars": 11891
+    "contributors": 95,
+    "commits": 867,
+    "stars": 12047
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 281
+      "contributions": 282
     },
     {
       "login": "chenhengqi",
@@ -111,6 +111,12 @@
       "contributions": 11
     },
     {
+      "login": "wbzdssm",
+      "htmlUrl": "https://github.com/wbzdssm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
+      "contributions": 10
+    },
+    {
       "login": "changpe1",
       "htmlUrl": "https://github.com/changpe1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14796941?v=4",
@@ -170,12 +176,6 @@
       "login": "sparkzky",
       "htmlUrl": "https://github.com/sparkzky",
       "avatarUrl": "https://avatars.githubusercontent.com/u/146502758?v=4",
-      "contributions": 8
-    },
-    {
-      "login": "wbzdssm",
-      "htmlUrl": "https://github.com/wbzdssm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
       "contributions": 8
     },
     {
@@ -425,6 +425,12 @@
       "contributions": 1
     },
     {
+      "login": "Lion916",
+      "htmlUrl": "https://github.com/Lion916",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46153551?v=4",
+      "contributions": 1
+    },
+    {
       "login": "Mizup79",
       "htmlUrl": "https://github.com/Mizup79",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95514291?v=4",
@@ -524,6 +530,12 @@
       "login": "wangxuw",
       "htmlUrl": "https://github.com/wangxuw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10045739?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "wg1026688210",
+      "htmlUrl": "https://github.com/wg1026688210",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14267759?v=4",
       "contributions": 1
     },
     {
