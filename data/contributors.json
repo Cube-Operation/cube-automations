@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-15T00:18:18Z",
+  "generatedAt": "2026-09-15T23:57:58Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 96,
-    "commits": 881,
-    "stars": 12298
+    "commits": 886,
+    "stars": 12510
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 289
+      "contributions": 292
     },
     {
       "login": "chenhengqi",
@@ -81,6 +81,12 @@
       "contributions": 16
     },
     {
+      "login": "tinklone",
+      "htmlUrl": "https://github.com/tinklone",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
+      "contributions": 16
+    },
+    {
       "login": "caoqianyun",
       "htmlUrl": "https://github.com/caoqianyun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
@@ -90,12 +96,6 @@
       "login": "QingqLin",
       "htmlUrl": "https://github.com/QingqLin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42768485?v=4",
-      "contributions": 15
-    },
-    {
-      "login": "tinklone",
-      "htmlUrl": "https://github.com/tinklone",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
       "contributions": 15
     },
     {
@@ -161,16 +161,16 @@
   ],
   "contributors": [
     {
+      "login": "chaojixinren",
+      "htmlUrl": "https://github.com/chaojixinren",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/218372427?v=4",
+      "contributions": 9
+    },
+    {
       "login": "YangYuS8",
       "htmlUrl": "https://github.com/YangYuS8",
       "avatarUrl": "https://avatars.githubusercontent.com/u/107938462?v=4",
       "contributions": 9
-    },
-    {
-      "login": "chaojixinren",
-      "htmlUrl": "https://github.com/chaojixinren",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/218372427?v=4",
-      "contributions": 8
     },
     {
       "login": "sparkzky",
