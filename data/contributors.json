@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T23:53:14Z",
+  "generatedAt": "2026-09-15T00:18:18Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 96,
-    "commits": 876,
-    "stars": 12194
+    "commits": 881,
+    "stars": 12298
   },
   "activeContributors": [
     {
@@ -30,7 +30,7 @@
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 49
+      "contributions": 50
     },
     {
       "login": "luzhixing12345",
@@ -96,7 +96,7 @@
       "login": "tinklone",
       "htmlUrl": "https://github.com/tinklone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
-      "contributions": 13
+      "contributions": 15
     },
     {
       "login": "novahe",
@@ -191,6 +191,12 @@
       "contributions": 4
     },
     {
+      "login": "ihanzh",
+      "htmlUrl": "https://github.com/ihanzh",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/192668052?v=4",
+      "contributions": 4
+    },
+    {
       "login": "IT-Althusser",
       "htmlUrl": "https://github.com/IT-Althusser",
       "avatarUrl": "https://avatars.githubusercontent.com/u/265981866?v=4",
@@ -206,12 +212,6 @@
       "login": "HuChundong",
       "htmlUrl": "https://github.com/HuChundong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3194932?v=4",
-      "contributions": 3
-    },
-    {
-      "login": "ihanzh",
-      "htmlUrl": "https://github.com/ihanzh",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/192668052?v=4",
       "contributions": 3
     },
     {
@@ -272,6 +272,12 @@
       "login": "fatelei",
       "htmlUrl": "https://github.com/fatelei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/961094?v=4",
+      "contributions": 2
+    },
+    {
+      "login": "Lion916",
+      "htmlUrl": "https://github.com/Lion916",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/46153551?v=4",
       "contributions": 2
     },
     {
@@ -428,12 +434,6 @@
       "login": "ketpatil77",
       "htmlUrl": "https://github.com/ketpatil77",
       "avatarUrl": "https://avatars.githubusercontent.com/u/243740572?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "Lion916",
-      "htmlUrl": "https://github.com/Lion916",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/46153551?v=4",
       "contributions": 1
     },
     {
