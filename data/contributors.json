@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-17T00:05:59Z",
+  "generatedAt": "2026-09-17T23:54:40Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 97,
-    "commits": 929,
-    "stars": 12603
+    "commits": 933,
+    "stars": 12563
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 294
+      "contributions": 295
     },
     {
       "login": "lkml-likexu",
@@ -42,7 +42,7 @@
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 34
+      "contributions": 35
     },
     {
       "login": "lisongqian",
@@ -57,15 +57,15 @@
       "contributions": 31
     },
     {
-      "login": "kinwin-ustc",
-      "htmlUrl": "https://github.com/kinwin-ustc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 20
-    },
-    {
       "login": "xiaojunxiang2023",
       "htmlUrl": "https://github.com/xiaojunxiang2023",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65019264?v=4",
+      "contributions": 21
+    },
+    {
+      "login": "kinwin-ustc",
+      "htmlUrl": "https://github.com/kinwin-ustc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
       "contributions": 20
     },
     {
@@ -73,6 +73,12 @@
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
       "contributions": 19
+    },
+    {
+      "login": "caoqianyun",
+      "htmlUrl": "https://github.com/caoqianyun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
+      "contributions": 16
     },
     {
       "login": "JunHe77",
@@ -85,12 +91,6 @@
       "htmlUrl": "https://github.com/tinklone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
       "contributions": 16
-    },
-    {
-      "login": "caoqianyun",
-      "htmlUrl": "https://github.com/caoqianyun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
-      "contributions": 15
     },
     {
       "login": "QingqLin",
