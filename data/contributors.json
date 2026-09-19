@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-18T23:52:53Z",
+  "generatedAt": "2026-09-19T23:54:01Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 99,
-    "commits": 935,
-    "stars": 12588
+    "contributors": 100,
+    "commits": 936,
+    "stars": 12598
   },
   "activeContributors": [
     {
@@ -446,6 +446,12 @@
       "login": "Mizup79",
       "htmlUrl": "https://github.com/Mizup79",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95514291?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "ningmingxiao",
+      "htmlUrl": "https://github.com/ningmingxiao",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/89581092?v=4",
       "contributions": 1
     },
     {
