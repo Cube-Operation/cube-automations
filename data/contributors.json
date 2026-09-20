@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-19T23:54:01Z",
+  "generatedAt": "2026-09-20T23:51:14Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 100,
-    "commits": 936,
-    "stars": 12598
+    "contributors": 101,
+    "commits": 941,
+    "stars": 12622
   },
   "activeContributors": [
     {
@@ -36,13 +36,13 @@
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 50
+      "contributions": 53
     },
     {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 35
+      "contributions": 36
     },
     {
       "login": "lisongqian",
@@ -356,6 +356,12 @@
       "login": "Becks723",
       "htmlUrl": "https://github.com/Becks723",
       "avatarUrl": "https://avatars.githubusercontent.com/u/72343118?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "bysui",
+      "htmlUrl": "https://github.com/bysui",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5154278?v=4",
       "contributions": 1
     },
     {
