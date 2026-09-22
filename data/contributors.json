@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-22T00:35:50Z",
+  "generatedAt": "2026-09-22T23:59:39Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 102,
-    "commits": 959,
-    "stars": 12642
+    "commits": 964,
+    "stars": 12660
   },
   "activeContributors": [
     {
@@ -24,13 +24,13 @@
       "login": "chenhengqi",
       "htmlUrl": "https://github.com/chenhengqi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4277743?v=4",
-      "contributions": 60
+      "contributions": 62
     },
     {
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 58
+      "contributions": 59
     },
     {
       "login": "zyl1121",
@@ -63,16 +63,16 @@
       "contributions": 21
     },
     {
+      "login": "liciazhu",
+      "htmlUrl": "https://github.com/liciazhu",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
+      "contributions": 21
+    },
+    {
       "login": "xiaojunxiang2023",
       "htmlUrl": "https://github.com/xiaojunxiang2023",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65019264?v=4",
       "contributions": 21
-    },
-    {
-      "login": "liciazhu",
-      "htmlUrl": "https://github.com/liciazhu",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 20
     },
     {
       "login": "caoqianyun",
@@ -227,6 +227,12 @@
       "contributions": 3
     },
     {
+      "login": "WaylandYang",
+      "htmlUrl": "https://github.com/WaylandYang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145302500?v=4",
+      "contributions": 3
+    },
+    {
       "login": "yingjun8",
       "htmlUrl": "https://github.com/yingjun8",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87511604?v=4",
@@ -302,12 +308,6 @@
       "login": "rogelioRuiz",
       "htmlUrl": "https://github.com/rogelioRuiz",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5581882?v=4",
-      "contributions": 2
-    },
-    {
-      "login": "WaylandYang",
-      "htmlUrl": "https://github.com/WaylandYang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145302500?v=4",
       "contributions": 2
     },
     {
