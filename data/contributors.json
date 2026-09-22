@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-20T23:51:14Z",
+  "generatedAt": "2026-09-22T00:35:50Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 101,
-    "commits": 941,
-    "stars": 12622
+    "contributors": 102,
+    "commits": 959,
+    "stars": 12642
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 295
+      "contributions": 299
     },
     {
       "login": "lkml-likexu",
       "htmlUrl": "https://github.com/lkml-likexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5671315?v=4",
-      "contributions": 63
+      "contributions": 66
     },
     {
       "login": "chenhengqi",
@@ -30,19 +30,19 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 57
+      "contributions": 58
     },
     {
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 53
+      "contributions": 55
     },
     {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 36
+      "contributions": 37
     },
     {
       "login": "lisongqian",
@@ -57,22 +57,22 @@
       "contributions": 31
     },
     {
+      "login": "kinwin-ustc",
+      "htmlUrl": "https://github.com/kinwin-ustc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
+      "contributions": 21
+    },
+    {
       "login": "xiaojunxiang2023",
       "htmlUrl": "https://github.com/xiaojunxiang2023",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65019264?v=4",
       "contributions": 21
     },
     {
-      "login": "kinwin-ustc",
-      "htmlUrl": "https://github.com/kinwin-ustc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 20
-    },
-    {
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 19
+      "contributions": 20
     },
     {
       "login": "caoqianyun",
@@ -114,13 +114,13 @@
       "login": "wbzdssm",
       "htmlUrl": "https://github.com/wbzdssm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
-      "contributions": 10
+      "contributions": 11
     },
     {
       "login": "changpe1",
       "htmlUrl": "https://github.com/changpe1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14796941?v=4",
-      "contributions": 8
+      "contributions": 9
     },
     {
       "login": "up2wing",
@@ -188,7 +188,7 @@
       "login": "devincd",
       "htmlUrl": "https://github.com/devincd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7844367?v=4",
-      "contributions": 4
+      "contributions": 5
     },
     {
       "login": "ihanzh",
@@ -299,6 +299,12 @@
       "contributions": 2
     },
     {
+      "login": "rogelioRuiz",
+      "htmlUrl": "https://github.com/rogelioRuiz",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/5581882?v=4",
+      "contributions": 2
+    },
+    {
       "login": "WaylandYang",
       "htmlUrl": "https://github.com/WaylandYang",
       "avatarUrl": "https://avatars.githubusercontent.com/u/145302500?v=4",
@@ -326,6 +332,12 @@
       "login": "A55566",
       "htmlUrl": "https://github.com/A55566",
       "avatarUrl": "https://avatars.githubusercontent.com/u/269855734?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "AkatQuas",
+      "htmlUrl": "https://github.com/AkatQuas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24731539?v=4",
       "contributions": 1
     },
     {
@@ -488,12 +500,6 @@
       "login": "raminjafary",
       "htmlUrl": "https://github.com/raminjafary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42489475?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "rogelioRuiz",
-      "htmlUrl": "https://github.com/rogelioRuiz",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/5581882?v=4",
       "contributions": 1
     },
     {
