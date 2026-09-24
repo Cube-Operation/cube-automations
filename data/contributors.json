@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-22T23:59:39Z",
+  "generatedAt": "2026-09-24T00:14:25Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 102,
-    "commits": 964,
-    "stars": 12660
+    "commits": 983,
+    "stars": 12682
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 299
+      "contributions": 302
     },
     {
       "login": "lkml-likexu",
@@ -42,7 +42,7 @@
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 37
+      "contributions": 39
     },
     {
       "login": "lisongqian",
@@ -91,6 +91,12 @@
       "htmlUrl": "https://github.com/tinklone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
       "contributions": 16
+    },
+    {
+      "login": "aichitudou123",
+      "htmlUrl": "https://github.com/aichitudou123",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145652255?v=4",
+      "contributions": 15
     },
     {
       "login": "QingqLin",
@@ -239,9 +245,9 @@
       "contributions": 3
     },
     {
-      "login": "aichitudou123",
-      "htmlUrl": "https://github.com/aichitudou123",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145652255?v=4",
+      "login": "AkatQuas",
+      "htmlUrl": "https://github.com/AkatQuas",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/24731539?v=4",
       "contributions": 2
     },
     {
@@ -332,12 +338,6 @@
       "login": "A55566",
       "htmlUrl": "https://github.com/A55566",
       "avatarUrl": "https://avatars.githubusercontent.com/u/269855734?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "AkatQuas",
-      "htmlUrl": "https://github.com/AkatQuas",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/24731539?v=4",
       "contributions": 1
     },
     {
