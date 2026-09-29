@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-28T00:18:21Z",
+  "generatedAt": "2026-09-29T01:29:03Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 102,
-    "commits": 988,
-    "stars": 12727
+    "commits": 995,
+    "stars": 12739
   },
   "activeContributors": [
     {
@@ -18,7 +18,7 @@
       "login": "lkml-likexu",
       "htmlUrl": "https://github.com/lkml-likexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5671315?v=4",
-      "contributions": 67
+      "contributions": 73
     },
     {
       "login": "chenhengqi",
@@ -209,6 +209,12 @@
       "contributions": 4
     },
     {
+      "login": "MeiSiristhebest",
+      "htmlUrl": "https://github.com/MeiSiristhebest",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/124799179?v=4",
+      "contributions": 4
+    },
+    {
       "login": "staryxchen",
       "htmlUrl": "https://github.com/staryxchen",
       "avatarUrl": "https://avatars.githubusercontent.com/u/151037142?v=4",
@@ -224,12 +230,6 @@
       "login": "HuChundong",
       "htmlUrl": "https://github.com/HuChundong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3194932?v=4",
-      "contributions": 3
-    },
-    {
-      "login": "MeiSiristhebest",
-      "htmlUrl": "https://github.com/MeiSiristhebest",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/124799179?v=4",
       "contributions": 3
     },
     {
