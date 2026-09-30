@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-29T01:29:03Z",
+  "generatedAt": "2026-09-30T01:05:01Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 102,
     "commits": 995,
-    "stars": 12739
+    "stars": 12757
   },
   "activeContributors": [
     {
@@ -81,15 +81,15 @@
       "contributions": 16
     },
     {
-      "login": "JunHe77",
-      "htmlUrl": "https://github.com/JunHe77",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/17865359?v=4",
-      "contributions": 16
-    },
-    {
       "login": "tinklone",
       "htmlUrl": "https://github.com/tinklone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
+      "contributions": 16
+    },
+    {
+      "login": "yajhe",
+      "htmlUrl": "https://github.com/yajhe",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/51151051?v=4",
       "contributions": 16
     },
     {
