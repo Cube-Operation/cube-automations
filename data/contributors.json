@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-08T01:33:58Z",
+  "generatedAt": "2026-10-09T01:44:53Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 102,
-    "commits": 998,
-    "stars": 12823
+    "contributors": 104,
+    "commits": 1006,
+    "stars": 12843
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 306
+      "contributions": 308
     },
     {
       "login": "lkml-likexu",
@@ -42,7 +42,7 @@
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 39
+      "contributions": 41
     },
     {
       "login": "lisongqian",
@@ -221,6 +221,12 @@
       "contributions": 4
     },
     {
+      "login": "WaylandYang",
+      "htmlUrl": "https://github.com/WaylandYang",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145302500?v=4",
+      "contributions": 4
+    },
+    {
       "login": "aptacc2421",
       "htmlUrl": "https://github.com/aptacc2421",
       "avatarUrl": "https://avatars.githubusercontent.com/u/194675508?v=4",
@@ -230,12 +236,6 @@
       "login": "HuChundong",
       "htmlUrl": "https://github.com/HuChundong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3194932?v=4",
-      "contributions": 3
-    },
-    {
-      "login": "WaylandYang",
-      "htmlUrl": "https://github.com/WaylandYang",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145302500?v=4",
       "contributions": 3
     },
     {
@@ -278,6 +278,12 @@
       "login": "ENCHIGO",
       "htmlUrl": "https://github.com/ENCHIGO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
+      "contributions": 2
+    },
+    {
+      "login": "Eulogizethesun",
+      "htmlUrl": "https://github.com/Eulogizethesun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38456859?v=4",
       "contributions": 2
     },
     {
@@ -428,6 +434,12 @@
       "login": "DHclly",
       "htmlUrl": "https://github.com/DHclly",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11781439?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "DualPhaseDev",
+      "htmlUrl": "https://github.com/DualPhaseDev",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/50400166?v=4",
       "contributions": 1
     },
     {
