@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-09T01:44:53Z",
+  "generatedAt": "2026-10-10T01:31:27Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 104,
-    "commits": 1006,
-    "stars": 12843
+    "contributors": 105,
+    "commits": 1015,
+    "stars": 12852
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 308
+      "contributions": 309
     },
     {
       "login": "lkml-likexu",
@@ -24,25 +24,25 @@
       "login": "chenhengqi",
       "htmlUrl": "https://github.com/chenhengqi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4277743?v=4",
-      "contributions": 62
+      "contributions": 64
     },
     {
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 59
+      "contributions": 60
     },
     {
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 55
+      "contributions": 57
     },
     {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 41
+      "contributions": 42
     },
     {
       "login": "lisongqian",
@@ -57,15 +57,15 @@
       "contributions": 31
     },
     {
-      "login": "kinwin-ustc",
-      "htmlUrl": "https://github.com/kinwin-ustc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 21
-    },
-    {
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
+      "contributions": 22
+    },
+    {
+      "login": "kinwin-ustc",
+      "htmlUrl": "https://github.com/kinwin-ustc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
       "contributions": 21
     },
     {
@@ -464,6 +464,12 @@
       "login": "jeis4wpi",
       "htmlUrl": "https://github.com/jeis4wpi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42679190?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "jiaweien",
+      "htmlUrl": "https://github.com/jiaweien",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/29617405?v=4",
       "contributions": 1
     },
     {
