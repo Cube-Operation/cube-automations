@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-10T01:31:27Z",
+  "generatedAt": "2026-10-11T00:40:50Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 105,
-    "commits": 1015,
-    "stars": 12852
+    "commits": 1018,
+    "stars": 12867
   },
   "activeContributors": [
     {
@@ -24,7 +24,7 @@
       "login": "chenhengqi",
       "htmlUrl": "https://github.com/chenhengqi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/4277743?v=4",
-      "contributions": 64
+      "contributions": 65
     },
     {
       "login": "ls-ggg",
@@ -111,6 +111,12 @@
       "contributions": 12
     },
     {
+      "login": "changpe1",
+      "htmlUrl": "https://github.com/changpe1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14796941?v=4",
+      "contributions": 11
+    },
+    {
       "login": "dushulin",
       "htmlUrl": "https://github.com/dushulin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/25276301?v=4",
@@ -121,12 +127,6 @@
       "htmlUrl": "https://github.com/wbzdssm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
       "contributions": 11
-    },
-    {
-      "login": "changpe1",
-      "htmlUrl": "https://github.com/changpe1",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14796941?v=4",
-      "contributions": 10
     },
     {
       "login": "up2wing",
@@ -233,6 +233,12 @@
       "contributions": 3
     },
     {
+      "login": "Eulogizethesun",
+      "htmlUrl": "https://github.com/Eulogizethesun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38456859?v=4",
+      "contributions": 3
+    },
+    {
       "login": "HuChundong",
       "htmlUrl": "https://github.com/HuChundong",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3194932?v=4",
@@ -278,12 +284,6 @@
       "login": "ENCHIGO",
       "htmlUrl": "https://github.com/ENCHIGO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
-      "contributions": 2
-    },
-    {
-      "login": "Eulogizethesun",
-      "htmlUrl": "https://github.com/Eulogizethesun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38456859?v=4",
       "contributions": 2
     },
     {
