@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-14T00:52:06Z",
+  "generatedAt": "2026-10-15T00:17:34Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 106,
-    "commits": 1029,
-    "stars": 12917
+    "commits": 1031,
+    "stars": 12940
   },
   "activeContributors": [
     {
@@ -18,7 +18,7 @@
       "login": "lkml-likexu",
       "htmlUrl": "https://github.com/lkml-likexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5671315?v=4",
-      "contributions": 73
+      "contributions": 74
     },
     {
       "login": "chenhengqi",
@@ -233,6 +233,12 @@
       "contributions": 3
     },
     {
+      "login": "ENCHIGO",
+      "htmlUrl": "https://github.com/ENCHIGO",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
+      "contributions": 3
+    },
+    {
       "login": "Eulogizethesun",
       "htmlUrl": "https://github.com/Eulogizethesun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38456859?v=4",
@@ -278,12 +284,6 @@
       "login": "emailcannotbeblank",
       "htmlUrl": "https://github.com/emailcannotbeblank",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50786445?v=4",
-      "contributions": 2
-    },
-    {
-      "login": "ENCHIGO",
-      "htmlUrl": "https://github.com/ENCHIGO",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
       "contributions": 2
     },
     {
