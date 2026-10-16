@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-15T00:17:34Z",
+  "generatedAt": "2026-10-16T00:05:10Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 106,
-    "commits": 1031,
-    "stars": 12940
+    "commits": 1032,
+    "stars": 12949
   },
   "activeContributors": [
     {
@@ -78,7 +78,7 @@
       "login": "caoqianyun",
       "htmlUrl": "https://github.com/caoqianyun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
-      "contributions": 17
+      "contributions": 18
     },
     {
       "login": "tinklone",
