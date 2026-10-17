@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-16T00:05:10Z",
+  "generatedAt": "2026-10-17T00:09:20Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 106,
-    "commits": 1032,
-    "stars": 12949
+    "commits": 1041,
+    "stars": 12961
   },
   "activeContributors": [
     {
@@ -18,7 +18,7 @@
       "login": "lkml-likexu",
       "htmlUrl": "https://github.com/lkml-likexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5671315?v=4",
-      "contributions": 74
+      "contributions": 75
     },
     {
       "login": "chenhengqi",
@@ -60,7 +60,7 @@
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 22
+      "contributions": 23
     },
     {
       "login": "kinwin-ustc",
@@ -75,6 +75,12 @@
       "contributions": 21
     },
     {
+      "login": "aichitudou123",
+      "htmlUrl": "https://github.com/aichitudou123",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/145652255?v=4",
+      "contributions": 19
+    },
+    {
       "login": "caoqianyun",
       "htmlUrl": "https://github.com/caoqianyun",
       "avatarUrl": "https://avatars.githubusercontent.com/u/32660119?v=4",
@@ -84,19 +90,13 @@
       "login": "tinklone",
       "htmlUrl": "https://github.com/tinklone",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5370727?v=4",
-      "contributions": 16
+      "contributions": 18
     },
     {
       "login": "yajhe",
       "htmlUrl": "https://github.com/yajhe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/51151051?v=4",
       "contributions": 16
-    },
-    {
-      "login": "aichitudou123",
-      "htmlUrl": "https://github.com/aichitudou123",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/145652255?v=4",
-      "contributions": 15
     },
     {
       "login": "QingqLin",
@@ -197,6 +197,12 @@
       "contributions": 5
     },
     {
+      "login": "Eulogizethesun",
+      "htmlUrl": "https://github.com/Eulogizethesun",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/38456859?v=4",
+      "contributions": 4
+    },
+    {
       "login": "ihanzh",
       "htmlUrl": "https://github.com/ihanzh",
       "avatarUrl": "https://avatars.githubusercontent.com/u/192668052?v=4",
@@ -236,12 +242,6 @@
       "login": "ENCHIGO",
       "htmlUrl": "https://github.com/ENCHIGO",
       "avatarUrl": "https://avatars.githubusercontent.com/u/38551565?v=4",
-      "contributions": 3
-    },
-    {
-      "login": "Eulogizethesun",
-      "htmlUrl": "https://github.com/Eulogizethesun",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/38456859?v=4",
       "contributions": 3
     },
     {
