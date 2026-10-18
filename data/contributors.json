@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-17T23:45:02Z",
+  "generatedAt": "2026-10-18T23:55:02Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 106,
-    "commits": 1041,
-    "stars": 12967
+    "contributors": 107,
+    "commits": 1044,
+    "stars": 12973
   },
   "activeContributors": [
     {
@@ -63,15 +63,15 @@
       "contributions": 23
     },
     {
-      "login": "kinwin-ustc",
-      "htmlUrl": "https://github.com/kinwin-ustc",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 21
-    },
-    {
       "login": "xiaojunxiang2023",
       "htmlUrl": "https://github.com/xiaojunxiang2023",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65019264?v=4",
+      "contributions": 22
+    },
+    {
+      "login": "kinwin-ustc",
+      "htmlUrl": "https://github.com/kinwin-ustc",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
       "contributions": 21
     },
     {
@@ -323,6 +323,12 @@
       "contributions": 2
     },
     {
+      "login": "wg1026688210",
+      "htmlUrl": "https://github.com/wg1026688210",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/14267759?v=4",
+      "contributions": 2
+    },
+    {
       "login": "XiaoFeiASK",
       "htmlUrl": "https://github.com/XiaoFeiASK",
       "avatarUrl": "https://avatars.githubusercontent.com/u/211331609?v=4",
@@ -521,6 +527,12 @@
       "contributions": 1
     },
     {
+      "login": "QC17551",
+      "htmlUrl": "https://github.com/QC17551",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52695419?v=4",
+      "contributions": 1
+    },
+    {
       "login": "raminjafary",
       "htmlUrl": "https://github.com/raminjafary",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42489475?v=4",
@@ -590,12 +602,6 @@
       "login": "wangxuw",
       "htmlUrl": "https://github.com/wangxuw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/10045739?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "wg1026688210",
-      "htmlUrl": "https://github.com/wg1026688210",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/14267759?v=4",
       "contributions": 1
     },
     {
