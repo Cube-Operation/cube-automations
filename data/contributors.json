@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-27T01:09:01Z",
+  "generatedAt": "2026-10-28T00:58:22Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 115,
-    "commits": 1083,
-    "stars": 13045
+    "commits": 1088,
+    "stars": 13058
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 324
+      "contributions": 325
     },
     {
       "login": "lkml-likexu",
@@ -30,7 +30,7 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 61
+      "contributions": 63
     },
     {
       "login": "zyl1121",
@@ -341,6 +341,18 @@
       "contributions": 2
     },
     {
+      "login": "purebluesong",
+      "htmlUrl": "https://github.com/purebluesong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7992195?v=4",
+      "contributions": 2
+    },
+    {
+      "login": "QC17551",
+      "htmlUrl": "https://github.com/QC17551",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/52695419?v=4",
+      "contributions": 2
+    },
+    {
       "login": "rbradford",
       "htmlUrl": "https://github.com/rbradford",
       "avatarUrl": "https://avatars.githubusercontent.com/u/588224?v=4",
@@ -560,18 +572,6 @@
       "login": "Piwriw",
       "htmlUrl": "https://github.com/Piwriw",
       "avatarUrl": "https://avatars.githubusercontent.com/u/76163620?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "purebluesong",
-      "htmlUrl": "https://github.com/purebluesong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7992195?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "QC17551",
-      "htmlUrl": "https://github.com/QC17551",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/52695419?v=4",
       "contributions": 1
     },
     {
