@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-28T00:58:22Z",
+  "generatedAt": "2026-10-29T01:33:17Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 115,
-    "commits": 1088,
-    "stars": 13058
+    "contributors": 116,
+    "commits": 1090,
+    "stars": 13075
   },
   "activeContributors": [
     {
@@ -18,7 +18,7 @@
       "login": "lkml-likexu",
       "htmlUrl": "https://github.com/lkml-likexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5671315?v=4",
-      "contributions": 76
+      "contributions": 77
     },
     {
       "login": "chenhengqi",
@@ -530,6 +530,12 @@
       "login": "jeis4wpi",
       "htmlUrl": "https://github.com/jeis4wpi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/42679190?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "JunweiHu0",
+      "htmlUrl": "https://github.com/JunweiHu0",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/280604634?v=4",
       "contributions": 1
     },
     {
