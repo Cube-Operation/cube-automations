@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-10-30T01:33:20Z",
+  "generatedAt": "2026-10-31T01:25:18Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 116,
-    "commits": 1094,
-    "stars": 13090
+    "commits": 1100,
+    "stars": 13108
   },
   "activeContributors": [
     {
@@ -42,7 +42,7 @@
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 46
+      "contributions": 49
     },
     {
       "login": "lisongqian",
@@ -60,7 +60,7 @@
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 26
+      "contributions": 27
     },
     {
       "login": "xiaojunxiang2023",
@@ -72,7 +72,7 @@
       "login": "kinwin-ustc",
       "htmlUrl": "https://github.com/kinwin-ustc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 21
+      "contributions": 22
     },
     {
       "login": "aichitudou123",
@@ -257,6 +257,12 @@
       "contributions": 3
     },
     {
+      "login": "purebluesong",
+      "htmlUrl": "https://github.com/purebluesong",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/7992195?v=4",
+      "contributions": 3
+    },
+    {
       "login": "yingjun8",
       "htmlUrl": "https://github.com/yingjun8",
       "avatarUrl": "https://avatars.githubusercontent.com/u/87511604?v=4",
@@ -338,12 +344,6 @@
       "login": "PekingSpades",
       "htmlUrl": "https://github.com/PekingSpades",
       "avatarUrl": "https://avatars.githubusercontent.com/u/180665176?v=4",
-      "contributions": 2
-    },
-    {
-      "login": "purebluesong",
-      "htmlUrl": "https://github.com/purebluesong",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/7992195?v=4",
       "contributions": 2
     },
     {
