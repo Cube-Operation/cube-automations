@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-02T01:16:36Z",
+  "generatedAt": "2026-11-03T03:18:10Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 117,
-    "commits": 1101,
-    "stars": 13123
+    "commits": 1108,
+    "stars": 13135
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 325
+      "contributions": 326
     },
     {
       "login": "lkml-likexu",
@@ -36,13 +36,13 @@
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 61
+      "contributions": 62
     },
     {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 49
+      "contributions": 50
     },
     {
       "login": "lisongqian",
@@ -60,7 +60,7 @@
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 27
+      "contributions": 29
     },
     {
       "login": "xiaojunxiang2023",
@@ -299,6 +299,12 @@
       "contributions": 2
     },
     {
+      "login": "dinedal",
+      "htmlUrl": "https://github.com/dinedal",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/606028?v=4",
+      "contributions": 2
+    },
+    {
       "login": "dwin-gharibi",
       "htmlUrl": "https://github.com/dwin-gharibi",
       "avatarUrl": "https://avatars.githubusercontent.com/u/20875684?v=4",
@@ -314,6 +320,12 @@
       "login": "fatelei",
       "htmlUrl": "https://github.com/fatelei",
       "avatarUrl": "https://avatars.githubusercontent.com/u/961094?v=4",
+      "contributions": 2
+    },
+    {
+      "login": "JackWeiw",
+      "htmlUrl": "https://github.com/JackWeiw",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/126441921?v=4",
       "contributions": 2
     },
     {
@@ -491,12 +503,6 @@
       "contributions": 1
     },
     {
-      "login": "dinedal",
-      "htmlUrl": "https://github.com/dinedal",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/606028?v=4",
-      "contributions": 1
-    },
-    {
       "login": "DualPhaseDev",
       "htmlUrl": "https://github.com/DualPhaseDev",
       "avatarUrl": "https://avatars.githubusercontent.com/u/50400166?v=4",
@@ -518,12 +524,6 @@
       "login": "husttsq",
       "htmlUrl": "https://github.com/husttsq",
       "avatarUrl": "https://avatars.githubusercontent.com/u/3353002?v=4",
-      "contributions": 1
-    },
-    {
-      "login": "JackWeiw",
-      "htmlUrl": "https://github.com/JackWeiw",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/126441921?v=4",
       "contributions": 1
     },
     {
