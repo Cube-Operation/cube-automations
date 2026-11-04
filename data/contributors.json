@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-03T03:18:10Z",
+  "generatedAt": "2026-11-04T01:53:55Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 117,
-    "commits": 1108,
-    "stars": 13135
+    "contributors": 118,
+    "commits": 1114,
+    "stars": 13149
   },
   "activeContributors": [
     {
@@ -30,13 +30,13 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 63
+      "contributions": 64
     },
     {
       "login": "zyl1121",
       "htmlUrl": "https://github.com/zyl1121",
       "avatarUrl": "https://avatars.githubusercontent.com/u/62997582?v=4",
-      "contributions": 62
+      "contributions": 63
     },
     {
       "login": "luzhixing12345",
@@ -60,7 +60,7 @@
       "login": "liciazhu",
       "htmlUrl": "https://github.com/liciazhu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/284541831?v=4",
-      "contributions": 29
+      "contributions": 31
     },
     {
       "login": "xiaojunxiang2023",
@@ -194,7 +194,7 @@
       "login": "devincd",
       "htmlUrl": "https://github.com/devincd",
       "avatarUrl": "https://avatars.githubusercontent.com/u/7844367?v=4",
-      "contributions": 5
+      "contributions": 6
     },
     {
       "login": "Eulogizethesun",
@@ -500,6 +500,12 @@
       "login": "DHclly",
       "htmlUrl": "https://github.com/DHclly",
       "avatarUrl": "https://avatars.githubusercontent.com/u/11781439?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "Donnykk",
+      "htmlUrl": "https://github.com/Donnykk",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/97417717?v=4",
       "contributions": 1
     },
     {
