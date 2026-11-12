@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-11T01:42:31Z",
+  "generatedAt": "2026-11-12T02:41:21Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 125,
-    "commits": 1163,
-    "stars": 13218
+    "contributors": 128,
+    "commits": 1173,
+    "stars": 13231
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 332
+      "contributions": 335
     },
     {
       "login": "lkml-likexu",
@@ -36,13 +36,13 @@
       "login": "ls-ggg",
       "htmlUrl": "https://github.com/ls-ggg",
       "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 64
+      "contributions": 65
     },
     {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 60
+      "contributions": 61
     },
     {
       "login": "liciazhu",
@@ -105,6 +105,12 @@
       "contributions": 15
     },
     {
+      "login": "wbzdssm",
+      "htmlUrl": "https://github.com/wbzdssm",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
+      "contributions": 13
+    },
+    {
       "login": "changpe1",
       "htmlUrl": "https://github.com/changpe1",
       "avatarUrl": "https://avatars.githubusercontent.com/u/14796941?v=4",
@@ -114,12 +120,6 @@
       "login": "novahe",
       "htmlUrl": "https://github.com/novahe",
       "avatarUrl": "https://avatars.githubusercontent.com/u/26545521?v=4",
-      "contributions": 12
-    },
-    {
-      "login": "wbzdssm",
-      "htmlUrl": "https://github.com/wbzdssm",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
       "contributions": 12
     },
     {
@@ -215,6 +215,12 @@
       "contributions": 5
     },
     {
+      "login": "Aries-441",
+      "htmlUrl": "https://github.com/Aries-441",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108256256?v=4",
+      "contributions": 4
+    },
+    {
       "login": "glowworm124",
       "htmlUrl": "https://github.com/glowworm124",
       "avatarUrl": "https://avatars.githubusercontent.com/u/79703723?v=4",
@@ -254,12 +260,6 @@
       "login": "aptacc2421",
       "htmlUrl": "https://github.com/aptacc2421",
       "avatarUrl": "https://avatars.githubusercontent.com/u/194675508?v=4",
-      "contributions": 3
-    },
-    {
-      "login": "Aries-441",
-      "htmlUrl": "https://github.com/Aries-441",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108256256?v=4",
       "contributions": 3
     },
     {
@@ -611,6 +611,18 @@
       "contributions": 1
     },
     {
+      "login": "oadtq",
+      "htmlUrl": "https://github.com/oadtq",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/107316081?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "obrr-hhx",
+      "htmlUrl": "https://github.com/obrr-hhx",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/53113020?v=4",
+      "contributions": 1
+    },
+    {
       "login": "peerless-hero",
       "htmlUrl": "https://github.com/peerless-hero",
       "avatarUrl": "https://avatars.githubusercontent.com/u/65681376?v=4",
@@ -704,6 +716,12 @@
       "login": "wjunLu",
       "htmlUrl": "https://github.com/wjunLu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/135617475?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "wrseward",
+      "htmlUrl": "https://github.com/wrseward",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/1389211?v=4",
       "contributions": 1
     },
     {
