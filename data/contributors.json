@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-11-12T02:41:21Z",
+  "generatedAt": "2026-11-13T02:23:22Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
     "contributors": 128,
-    "commits": 1173,
-    "stars": 13231
+    "commits": 1185,
+    "stars": 13237
   },
   "activeContributors": [
     {
       "login": "fslongjin",
       "htmlUrl": "https://github.com/fslongjin",
       "avatarUrl": "https://avatars.githubusercontent.com/u/63215266?v=4",
-      "contributions": 335
+      "contributions": 343
     },
     {
       "login": "lkml-likexu",
       "htmlUrl": "https://github.com/lkml-likexu",
       "avatarUrl": "https://avatars.githubusercontent.com/u/5671315?v=4",
-      "contributions": 79
+      "contributions": 80
     },
     {
       "login": "chenhengqi",
@@ -42,7 +42,7 @@
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
-      "contributions": 61
+      "contributions": 62
     },
     {
       "login": "liciazhu",
@@ -108,7 +108,7 @@
       "login": "wbzdssm",
       "htmlUrl": "https://github.com/wbzdssm",
       "avatarUrl": "https://avatars.githubusercontent.com/u/31335322?v=4",
-      "contributions": 13
+      "contributions": 14
     },
     {
       "login": "changpe1",
@@ -203,6 +203,12 @@
       "contributions": 6
     },
     {
+      "login": "Aries-441",
+      "htmlUrl": "https://github.com/Aries-441",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/108256256?v=4",
+      "contributions": 5
+    },
+    {
       "login": "Donnykk",
       "htmlUrl": "https://github.com/Donnykk",
       "avatarUrl": "https://avatars.githubusercontent.com/u/97417717?v=4",
@@ -213,12 +219,6 @@
       "htmlUrl": "https://github.com/MeiSiristhebest",
       "avatarUrl": "https://avatars.githubusercontent.com/u/124799179?v=4",
       "contributions": 5
-    },
-    {
-      "login": "Aries-441",
-      "htmlUrl": "https://github.com/Aries-441",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/108256256?v=4",
-      "contributions": 4
     },
     {
       "login": "glowworm124",
