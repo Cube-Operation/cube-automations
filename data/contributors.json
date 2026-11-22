@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-21T02:58:27Z",
+  "generatedAt": "2026-11-22T01:54:16Z",
   "repo": "tencentcloud/CubeSandbox",
   "htmlUrl": "https://github.com/TencentCloud/CubeSandbox",
   "stats": {
-    "contributors": 141,
-    "commits": 1258,
-    "stars": 13390
+    "contributors": 143,
+    "commits": 1264,
+    "stars": 13392
   },
   "activeContributors": [
     {
@@ -33,15 +33,15 @@
       "contributions": 67
     },
     {
-      "login": "ls-ggg",
-      "htmlUrl": "https://github.com/ls-ggg",
-      "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
-      "contributions": 65
-    },
-    {
       "login": "luzhixing12345",
       "htmlUrl": "https://github.com/luzhixing12345",
       "avatarUrl": "https://avatars.githubusercontent.com/u/56221493?v=4",
+      "contributions": 66
+    },
+    {
+      "login": "ls-ggg",
+      "htmlUrl": "https://github.com/ls-ggg",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/48054568?v=4",
       "contributions": 65
     },
     {
@@ -66,7 +66,7 @@
       "login": "kinwin-ustc",
       "htmlUrl": "https://github.com/kinwin-ustc",
       "avatarUrl": "https://avatars.githubusercontent.com/u/1566908?v=4",
-      "contributions": 29
+      "contributions": 32
     },
     {
       "login": "xiaojunxiang2023",
@@ -659,6 +659,12 @@
       "contributions": 1
     },
     {
+      "login": "Mikey1129",
+      "htmlUrl": "https://github.com/Mikey1129",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/167426363?v=4",
+      "contributions": 1
+    },
+    {
       "login": "Mizup79",
       "htmlUrl": "https://github.com/Mizup79",
       "avatarUrl": "https://avatars.githubusercontent.com/u/95514291?v=4",
@@ -854,6 +860,12 @@
       "login": "ZhiyaoWen999",
       "htmlUrl": "https://github.com/ZhiyaoWen999",
       "avatarUrl": "https://avatars.githubusercontent.com/u/75983327?v=4",
+      "contributions": 1
+    },
+    {
+      "login": "ztt0216",
+      "htmlUrl": "https://github.com/ztt0216",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/201526776?v=4",
       "contributions": 1
     }
   ]
